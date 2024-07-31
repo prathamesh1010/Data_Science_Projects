@@ -10,3 +10,11 @@ Length of the sepals  <br>
 Width of the sepals  <br>
 Length of the petals  <br>
 Width of the petals  <br>
+
+
+<h2>INSIGHTS</h2>
+•	Species Setosa has the smallest features and less distributed with some outliers.<br>
+•	Species Versicolor has the average features.<br>
+•	Species Virginica has the highest features<br>
+
+
