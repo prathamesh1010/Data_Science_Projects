@@ -1,2 +1,2 @@
 # Portfolio
-This is my Dta Science Portfolio Projects.
+This is my Data Science Portfolio Projects.
