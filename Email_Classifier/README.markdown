@@ -42,7 +42,7 @@ project/
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repo_url>
+   git clone [<repo_url>](https://github.com/prathamesh1010/Data_Science_Projects/tree/main/Email_Classifier)
    cd project/
    ```
 
@@ -134,5 +134,5 @@ Sensitive information is masked using regex rules. Examples:
 Contributions are welcome! Please open a pull request or issue on GitHub.
 
 ## Contact
-- **Email**: pprathame
+- **Email**: pprathames1010@gmail.com
 - **GitHub**: https://github.com/prathamesh1010
