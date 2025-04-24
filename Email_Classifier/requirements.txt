@@ -1,0 +1,12 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+spacy==3.5.0
+python-dateutil==2.8.2
+regex==2024.4.16
+torch==2.2.2
+transformers==4.39.3
+numpy==1.24.4
+setuptools==68.2.2
+cython==0.29.37
+streamlit
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
