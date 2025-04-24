@@ -42,7 +42,7 @@ project/
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone [<repo_url>](https://github.com/prathamesh1010/Data_Science_Projects/tree/main/Email_Classifier)
+   git clone https://github.com/prathamesh1010/Data_Science_Projects/tree/main/Email_Classifier
    cd project/
    ```
 
