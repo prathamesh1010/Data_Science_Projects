@@ -129,12 +129,10 @@ Sensitive information is masked using regex rules. Examples:
 - Export classification logs for analytics dashboards.
 - Expand PII masking to include addresses and IDs.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! Please open a pull request or issue on GitHub.
 
 ## Contact
-- **Email**: your.email@example.com
-- **GitHub**: [YourGitHub](https://github.com/YourGitHub)
+- **Email**: pprathame
+- **GitHub**: https://github.com/prathamesh1010
